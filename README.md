@@ -105,3 +105,4 @@ var adPositions     = {
   ...
 };
 ```
+http://www.testlocal.com:8000/openrtb2/auction
